@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 17,
+      "firstName": "Sashi",
+      "lastName": "Kapoor",
+      "email": "sashiKapoor@gmail.com",
+      "mobile": "982378057",
+      "salary": "5000000000"
+    },
+    {
+      "id": 19,
+      "firstName": "Akshay",
+      "lastName": "Gole",
+      "email": "akshaygole@gmail.com",
+      "mobile": "9898989898",
+      "salary": "1000000"
+    },
+    {
+      "id": 20,
+      "firstName": "Shubham",
+      "lastName": "Mane",
+      "email": "shubhammane@gmail.com",
+      "mobile": "8989898989",
+      "salary": "20000"
+    },
+    {
+      "id": 21,
+      "firstName": "Vishwas",
+      "lastName": "Shende",
+      "email": "vishwasshende@gmail.com",
+      "mobile": "989898989898",
+      "salary": "500000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
